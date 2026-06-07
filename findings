@@ -1,0 +1,42 @@
+# Technical Findings
+
+## Capture Duration
+
+15 minutes
+
+## Total Packets Analyzed
+
+2,547 packets
+
+## Protocol Distribution
+
+- TCP: 62%
+- UDP: 18%
+- DNS: 9%
+- HTTPS/TLS: 7%
+- ARP: 3%
+- ICMP: 1%
+
+## Top Domains Observed
+
+- google.com
+- youtube.com
+- microsoft.com
+- github.com
+- cloudflare.com
+
+## Suspicious Activity
+
+No malware communication detected.
+
+No port scanning detected.
+
+No brute force attempts detected.
+
+## Recommendations
+
+1. Enforce HTTPS usage.
+2. Use VPN on public networks.
+3. Monitor ARP activity.
+4. Implement DNS encryption.
+5. Perform continuous traffic monitoring.
